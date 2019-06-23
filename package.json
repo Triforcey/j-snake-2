@@ -10,10 +10,10 @@
   "license": "GPL-3.0+",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Triforcey/j-snake-2.git"
+    "url": "git+https://github.com/Triforcey/j-snake-2-server.git"
   },
   "bugs": {
-    "url": "https://github.com/Triforcey/j-snake-2/issues"
+    "url": "https://github.com/Triforcey/j-snake-2-server/issues"
   },
-  "homepage": "https://github.com/Triforcey/j-snake-2#readme"
+  "homepage": "https://github.com/Triforcey/j-snake-2-server#readme"
 }
